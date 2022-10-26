@@ -160,7 +160,7 @@ $s['startDownload'] = 'Create download package';
 $s['legalCopeHarder'] = 'By clicking the <i>Create download package</i> button you agree with the following:';
 $s['legalCope1'] = 'Installation images created using the scripts provided by UUP dump are meant only for <b>evaluation purposes</b>';
 $s['legalCope2'] = 'The images and their deployments are <b>not supported</b> in any way by Microsoft Corporation';
-$s['legalCope3'] = '<b>The authors are not liable for any damages</b> as per the terms of the project\'s license';
+$s['legalCope3v2'] = '<b>The authors are not liable for any damages</b> caused by a misuse of the website';
 $s['win1122h2OrLater'] = 'Windows 11, version 22H2 or later';
 $s['requiresWindows102004'] = 'This build requires using Windows 10, version 2004 or later for the ISO to be properly created. Scripts for other platforms will output a broken ISO.';
 

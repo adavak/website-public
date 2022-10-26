@@ -160,7 +160,7 @@ $s['startDownload'] = 'Utwórz paczkę pobierającą';
 $s['legalCopeHarder'] = 'Poprzez kliknięcie przycisku <i>Utwórz paczkę pobierającą</i> zgadzasz się z następującym:';
 $s['legalCope1'] = 'Obrazy instalacyjne stworzone przez skrypty udostępniane przez UUP dump przeznaczone są wyłącznie do <b>celów ewaluacyjnych</b>';
 $s['legalCope2'] = 'Obrazy te oraz ich wdrożenia <b>nie są wspierane</b> w żaden sposób przez Microsoft Corporation';
-$s['legalCope3'] = 'Zgodnie z postanowieniami licencyjnymi projektu <b>autorzy nie ponoszą odpowiedzialności za jakiekolwiek szkody</b>';
+$s['legalCope3v2'] = '<b>Autorzy nie ponoszą odpowiedzialności za jakiekolwiek szkody</b> wynikłe z nieprawidłowego użytkowania strony.';
 $s['win1122h2OrLater'] = 'System Windows 11, wersja 22H2 bądź nowszy';
 $s['requiresWindows102004'] = 'Ta kompilacja wymaga użycia systemu Windows 10, wersja 2004 bądź nowszego w celu poprawnego stworzenia obrazu ISO. Skrypty dla pozostałych platform utworzą uszkodzone obrazy.';
 
