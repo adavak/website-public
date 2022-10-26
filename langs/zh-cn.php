@@ -188,10 +188,6 @@ $s['searchForFiles'] = '查找文件……';
 $s['weFoundFiles'] = '在你的查询中我们找到了 <b>%d</b> 个文件。'; //We have found <b>692</b> files for your query.
 $s['sizeOfShownFiles'] = '显示文件的大小：%s'; //Size of shown files: 2.86 GiB
 
-//verification.php
-$s['verification'] = '验证';
-$s['clickNumberedButton'] = '单击编号为 %d 的按钮';
-
 //Error pages
 $s['error'] = '错误';
 $s['requestNotSuccessful'] = '请求未成功';
