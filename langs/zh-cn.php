@@ -91,7 +91,7 @@ $s['optionsNoticeText'] = '此处的选项配置底层 Windows 更新客户端�
 //known.php
 $s['browseKnown'] = '浏览已知内部版本';
 $s['chooseBuild'] = '选择内部版本';
-$s['weFoundBuilds'] = '根据查询，我们找到了 <b>%d</b> 个内部版本。'; //<b>692</b> builds were found for your query.
+$s['weFoundBuilds'] = '根据查询，找到了 <b>%d</b> 个内部版本。'; //<b>692</b> builds were found for your query.
 $s['sortByDate'] = '按添加日期排序结果';
 $s['nextPage'] = '下一页';
 $s['prevPage'] = '上一页';
@@ -195,7 +195,7 @@ $s['fileRenamingScriptDescFindFiles'] = '如果要对从此页面下载的文件
 $s['fileRenamingScriptGenW'] = '生成重命名脚本（Windows）';
 $s['fileRenamingScriptGenL'] = '生成重命名脚本（Linux、macOS）';
 $s['searchForFiles'] = '查找文件……';
-$s['weFoundFiles'] = '在查询中我们找到了 <b>%d</b> 个文件。'; //We have found <b>692</b> files for your query.
+$s['weFoundFiles'] = '在查询中找到了 <b>%d</b> 个文件。'; //We have found <b>692</b> files for your query.
 $s['sizeOfShownFiles'] = '显示文件的大小：%s'; //Size of shown files: 2.86 GiB
 
 //Error pages
